@@ -1,0 +1,2 @@
+123456, James Bond, director, 2000$
+123457, Lily Scott, secretary, 500$
